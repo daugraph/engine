@@ -1,6 +1,6 @@
 ## Link to competition
 https://tianchi.aliyun.com/competition/entrance/231689/rankingList
-
+[](https://pic2.zhimg.com/80/v2-82a34d3c48d049391cf5226ece1cb093_1440w.jpg?source=1940ef5c)
 
 ## All you have to do:
 
