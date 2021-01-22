@@ -1,3 +1,7 @@
+## Link to competition
+https://tianchi.aliyun.com/competition/entrance/231689/rankingList
+
+
 ## All you have to do:
 
 Complete engine_race/engine_race.[h,cc], and execute
