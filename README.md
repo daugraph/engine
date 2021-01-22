@@ -1,5 +1,5 @@
-## Link of competition
-rank 11/1653, click [this](https://tianchi.aliyun.com/competition/entrance/231689/rankingList) see detail
+## Contest link
+Final ranking 11/1653, for more information, *[click here](https://tianchi.aliyun.com/competition/entrance/231689/rankingList)*
 
 ## All you have to do:
 
