@@ -1,6 +1,6 @@
-## Alibaba Tianchi Contest ([LINK](https://tianchi.aliyun.com/competition/entrance/231689/rankingList))
+## [Alibaba Tianchi Contest](https://tianchi.aliyun.com/competition/entrance/231689/rankingList)
 
-Final ranking 11/1653, **[click here](https://tianchi.aliyun.com/competition/entrance/231689/rankingList)** for more information
+Final ranking 11/1653
 
 ## All you have to do
 
