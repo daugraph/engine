@@ -1,7 +1,8 @@
-## Contest link
-Final ranking 11/1653, for more information, **[click here](https://tianchi.aliyun.com/competition/entrance/231689/rankingList)**
+## Tianchi Contest
 
-## All you have to do:
+Final ranking 11/1653, **[click here](https://tianchi.aliyun.com/competition/entrance/231689/rankingList)** for more information
+
+## All you have to do
 
 Complete engine_race/engine_race.[h,cc], and execute
 
